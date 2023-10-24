@@ -1,0 +1,30 @@
+[
+    {
+      "imagen": "leche.jpg",
+      "nombre": "Leche",
+      "precio": 2.99
+    },
+    {
+      "imagen": "lechuga.jpg",
+      "nombre": "Lechuga",
+      "precio": 1.49
+    },
+    {
+      "imagen": "pan.jpg",
+      "nombre": "Pan",
+      "precio": 2.49
+    },
+    {
+      "imagen": "huevos.jpg",
+      "nombre": "Huevos",
+      "precio": 3.99
+    },
+    {
+      "imagen": "manzanas.jpg",
+      "nombre": "Manzanas",
+      "precio": 0.99
+    }
+  ]
+
+
+  
